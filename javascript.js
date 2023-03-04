@@ -1,2 +1,2 @@
-const m = 'whatsapp'
-console.log(m)
+const w = 'whatsapp'
+console.log(w)
